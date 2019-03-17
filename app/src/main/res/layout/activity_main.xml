@@ -10,8 +10,9 @@
     <ImageView
         android:id="@+id/capturedImage"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_above="@+id/btnTakePicture" />
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnTakePicture"
+        android:contentDescription="@string/descTakenImage" />
 
     <TextView
         android:id="@+id/text1"
@@ -19,7 +20,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
-        android:text="Welcome to V.I.P.!" />
+        android:text="@string/homeMessage1"
+        android:textColor="@android:color/black" />
 
     <TextView
         android:id="@+id/text2"
@@ -27,7 +29,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="285dp"
-        android:text="Take a picture to begin." />
+        android:text="@string/homeMessage2"
+        android:textColor="@android:color/black" />
 
     <ImageButton
         android:id="@+id/btnTakePicture"
@@ -36,5 +39,14 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         app:srcCompat="@android:drawable/ic_menu_camera" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:text="@string/matchMessage"
+        android:textColor="@android:color/black" />
 
 </RelativeLayout>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">V.I.P.</string>
+    <string name="homeMessage2">Take a picture to begin!</string>
+    <string name="homeMessage1">Welcome to V.I.P.</string>
+    <string name="matchMessage">Your match:</string>
+    <string name="descTakenImage">The taken image</string>
+    <string name="descBtnTake">The button to take a picture</string>
 </resources>
