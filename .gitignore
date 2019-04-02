@@ -1,10 +1,11 @@
 ## Android studio
-/build
+project/app/build
 
 ## LaTeX
 *.log
 *.aux
 *.synctex.gz
+*.toc
 
 ## MacOS
-.DS_Store
+*.DS_Store
