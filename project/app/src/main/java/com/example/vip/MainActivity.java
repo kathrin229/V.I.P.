@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity {
                 imgCapture.setImageBitmap(bp);
                 findViewById(R.id.text1).setVisibility(View.GONE);
                 findViewById(R.id.text2).setVisibility(View.GONE);
+
+                findViewById(R.id.textView).setVisibility(View.VISIBLE);
+                findViewById(R.id.matchImage).setVisibility(View.VISIBLE);
             } else if (resultCode == RESULT_CANCELED) {
                 Toast.makeText(this, "Cancelled", Toast.LENGTH_LONG).show();
             }
