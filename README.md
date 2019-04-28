@@ -4,6 +4,6 @@ USI Software Atelier 2 2019 - App Project
 
 Watch our demo video!
 
-[Italian version](https://youtu.be/gXLdUPTbUh4)
+[Italian version](https://youtu.be/8uRrH5QJm30)
 
-[English version](https://youtu.be/EhpQYXXxgP8)
+English version coming soon
