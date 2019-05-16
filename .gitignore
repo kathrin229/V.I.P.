@@ -2,10 +2,14 @@
 project/app/build
 
 ## LaTeX
-*/*.log
-*/*.aux
-*/*.synctex.gz
-*/*.toc
+*.log
+*.aux
+*.synctex.gz
+*.toc
 
-## MacOS
-*/.DS_Store
+## OS trash
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
