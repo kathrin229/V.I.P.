@@ -1,0 +1,21 @@
+-- Bug (da mettere a posto per lunedì) --
+
+Fare le stelle opache, così sembrano cliccabili
+Evidenziare scheda attiva (home/foto/profilo)
+Scrivere "Feed" o simile sopra il feed
+Togliere elenco puntato dal menu impostazioni
+Due punti invece di freccia nel profilo
+Profili di Marx, Mercury e Tesla hanno la freccia indietro che non va (forse anche altri?)
+Rarità di Buffet incoerente fra home (3*) e profilo (5*)
+Icona di una casetta al posto del wifi per la home
+Spostare il menu impostazioni sulla home in alto a destra invece che nel profilo
+Alcune schede hanno ancora "Very important photo" in alto
+Privacy&Policy dovrebbe essere Privacy Policy
+Steve Jobs nato nel 1929?
+
+
+-- Funzionalità o altro (non da fare adesso - andrà nel report) --
+
+Mettere info corte e interessanti piuttosto che un romanzo
+Aggiungere una lista di argomenti da cui scegliere per personalizzare i tuoi VIP
+Dire da qualche parte come funziona (come si sbloccano ecc.)
