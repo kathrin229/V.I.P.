@@ -13,9 +13,15 @@ Alcune schede hanno ancora "Very important photo" in alto
 Privacy&Policy dovrebbe essere Privacy Policy
 Steve Jobs nato nel 1929?
 
+Testo bottone Inizia non chiaro -> Registrati?
+"Cerca persone" invece di "Cerca amici" sulla home?
 
 -- Funzionalità o altro (non da fare adesso - andrà nel report) --
 
 Mettere info corte e interessanti piuttosto che un romanzo
 Aggiungere una lista di argomenti da cui scegliere per personalizzare i tuoi VIP
 Dire da qualche parte come funziona (come si sbloccano ecc.)
+
+Quiz per scoprire meglio i personaggi
+Mettere una funzione per ordinare i personaggi nel profilo (rarità/nome/...)
+
