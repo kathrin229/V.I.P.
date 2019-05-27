@@ -1,0 +1,85 @@
+Group 1:
+
+Tasks:
+
+Managed to login successfully. (mistakes were made afterwards so no more tasks for this group)
+
+Feedback:
+
+Add additional characters. Graphics are good.
+
+The app is useful and convenient as, to unlock a character, you can have a
+direct access to information without having to go on the internet.
+It can be helpful for school.
+
+Would suggest to a friend. Maybe add videos (possibly funny) that can interest
+the user in the characters.
+
+Add a game aspect to the app, possibly with quizzes regarding the unlocked characters.
+
+################################################################################
+
+Group 2:
+
+Tasks:
+
+Login. Successful.
+
+Unlocking a character through camera. Successful.
+
+Viewing own profile. Successful.
+
+Expanding character description. Successful.
+
+Accepting or refusing a friend request. Successful.
+
+Using settings menu. Found by mistake while looking for the home.
+
+Feedback:
+
+They liked it, navigation was intuitive. Add a quiz after a certain amount of
+characters has been unlocked.
+
+Initially confused about the unlocking mechanic (didn't get how they would unlock).
+
+Question regarding what happens once they unlock all the characters. (answer was
+that there will be added more characters as time goes on)
+
+Unpredictable as your expectations of what the facial recognition could give you
+might not be what you actually get.
+
+It looks like fun. Simple and easy as the interface is nice to use. It is convincing,
+interesting as it is inviting and new. Useful and well organised as they have all the
+information they need there.
+
+They would like to use it. Design and graphics are good.
+
+################################################################################
+
+Group 3:
+
+Tasks:
+
+Login. Successful.
+
+Unlocking a character through camera. Successful.
+
+Expanding character description. Successful, surprised and scared by the amount
+of text that can be in a character's description.
+
+Viewing a friend's profile. Successful. (interface hitbox was too small and made it tricky).
+
+Accepting or refusing a friend request. Successful.
+
+Finding a friend through search bar. Successful.
+
+Using settings menu. Not found.
+
+Feedback:
+
+Question regarding the amount of characters they might be too many for one of them
+while the other one asked if there will be more.
+
+They would want a way to find friend requests more easily.
+
+Clean, inviting and organised. Convincing as the name alone would make them download it.
